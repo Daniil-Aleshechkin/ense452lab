@@ -2,3 +2,16 @@ ense452lab1/RTE
 ense452lab1/Objects
 ense452lab1/Listings
 ense452lab1/DebugConfig
+
+ense452lab2/RTE
+ense452lab2/Objects
+ense452lab2/Listings
+ense452lab2/DebugConfig
+*.o
+*.d
+*.htm
+*.dep
+*.axf
+*.lnp
+*.map
+*.iex
