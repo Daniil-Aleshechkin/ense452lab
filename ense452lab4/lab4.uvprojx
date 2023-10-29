@@ -49,7 +49,7 @@
             <InvalidFlash>1</InvalidFlash>
           </TargetStatus>
           <OutputDirectory>.\</OutputDirectory>
-          <OutputName>lab3</OutputName>
+          <OutputName>lab4</OutputName>
           <CreateExecutable>1</CreateExecutable>
           <CreateLib>0</CreateLib>
           <CreateHexFile>0</CreateHexFile>
@@ -395,11 +395,6 @@
               <FilePath>.\util.c</FilePath>
             </File>
             <File>
-              <FileName>lab2.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\lab2.c</FilePath>
-            </File>
-            <File>
               <FileName>LED.c</FileName>
               <FileType>1</FileType>
               <FilePath>.\LED.c</FilePath>
@@ -438,6 +433,11 @@
               <FileName>timer.h</FileName>
               <FileType>5</FileType>
               <FilePath>.\timer.h</FilePath>
+            </File>
+            <File>
+              <FileName>lab4.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\lab4.c</FilePath>
             </File>
           </Files>
         </Group>

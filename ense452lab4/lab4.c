@@ -119,4 +119,3 @@ enum Commands readCommand() {
 	
 	return returnCommand;
 }
-1	
