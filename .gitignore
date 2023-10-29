@@ -7,6 +7,16 @@ ense452lab2/RTE
 ense452lab2/Objects
 ense452lab2/Listings
 ense452lab2/DebugConfig
+
+ense452lab3/RTE
+ense452lab3/Objects
+ense452lab3/Listings
+ense452lab3/DebugConfig
+
+ense452lab4/RTE
+ense452lab4/Objects
+ense452lab4/Listings
+ense452lab4/DebugConfig
 *.o
 *.d
 *.htm
